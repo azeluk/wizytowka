@@ -1,0 +1,11 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-address:before { content: '\e801'; } /* '' */
+.icon-picture:before { content: '\e802'; } /* '' */
+.icon-mail:before { content: '\e803'; } /* '' */
+.icon-male:before { content: '\e804'; } /* '' */
+.icon-book:before { content: '\e805'; } /* '' */
+.icon-pitch:before { content: '\e82a'; } /* '' */
+.icon-laptop:before { content: '\f109'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-file-image:before { content: '\f1c5'; } /* '' */
