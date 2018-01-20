@@ -12,5 +12,5 @@ function odliczanie(){
 	if (sekunda<10) sekunda="0"+sekunda;
 	
 	document.getElementById("zegar").innerHTML=godzina+":"+minuta+":"+sekunda;
-	setTimeout("odliczenie()",1000);
+	setTimeout("odliczanie()",1000);
 }

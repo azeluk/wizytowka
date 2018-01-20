@@ -12,14 +12,14 @@
 	<link rel="stylesheet" href="css/fontello.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Lato" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet"> 
-
+   <script type="text/javascript" src="timer.js"> 	</script>
 </head>
-<body>
+<body onload="odliczanie();">
 	
 	<div id="container">
 	
 		<div class="rectangle">
-			<div id="logo">Adam Żeluk</div>
+			<div id="logo"><a href="index.html" class="tilelinkhtml5">Adam Żeluk</a></div>
 			<div id="zegar">12:00:00</div>
 			<div style="clear:both;"></div>
 		</div>
@@ -56,7 +56,7 @@
 		</div>		
 		<div class="square">
 			<div class="tile5">
-				Cześć jestem Adam z Zabiela
+				Nie wiele Ci mogę dać, bo sam nie wiele mam
 			</div>
 			<div class="mountain">
 				<i class="icon-picture"></i>
